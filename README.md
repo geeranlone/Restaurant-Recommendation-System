@@ -6,8 +6,10 @@ Cosine Similarity: Calculates the similarity between restaurants based on review
 Data preprocessing: Handles data cleaning, such as removing stopwords, punctuations, and URLs from the text reviews.
 Mean Rating Normalization: Scales restaurant ratings between 1 and 5.
 # Dataset
-The dataset used in this project is Zomato Restaurant Data, containing details like restaurant names, ratings, reviews, costs, etc. The dataset can be downloaded from Kaggle or similar platforms.
-
+The dataset used in this project is Zomato Restaurant Data, containing details like restaurant names, ratings, reviews, costs, etc. The dataset can be downloaded from the below link
+```
+https://drive.google.com/file/d/1cctIlxOBh2bOzSCx0Sd2t--NgkG05XEF/view?usp=sharing
+```
 # Installation
 Clone the repository:
 ```
